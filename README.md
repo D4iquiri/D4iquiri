@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/D4iquiri/D4iquiri/main/Elden.gif" width="100%" alt="banner"/>
+  <img src="https://github.com/D4iquiri/D4iquiri/blob/5d9b3f7c791b4058307b9b455260545f4159082e/Elden.gif" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
